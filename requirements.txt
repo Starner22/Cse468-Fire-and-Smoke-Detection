@@ -1,0 +1,6 @@
+Python 3.14.0
+Jupyter Notebook 2025.9.1
+
+Libraries used:
+
+ultralytics 8.4.24
