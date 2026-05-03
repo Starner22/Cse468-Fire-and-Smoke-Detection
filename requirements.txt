@@ -4,3 +4,15 @@ Jupyter Notebook 2025.9.1
 Libraries used:
 
 ultralytics 8.4.24
+pandas 2.3.3
+matplotlib 3.10.7
+
+Datasets Used:
+
+D-Fire: https://github.com/gaia-solutions-on-demand/DFireDataset
+Flame-BD: https://universe.roboflow.com/flame-bd9xu/fire-detection-gvj54
+IronWolf: https://www.kaggle.com/datasets/ironwolf437/fire-detection-dataset?resource=download
+Indoor: https://universe.roboflow.com/object-detection-7qn6l/indoor-fire-smoke
+
+Merged Dataset Link:
+https://drive.google.com/file/d/18pJRKjePcx0E7VuJKLwD9AUGSNPAvhPe/view?usp=sharing
