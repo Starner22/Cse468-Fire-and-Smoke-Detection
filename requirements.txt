@@ -4,3 +4,5 @@ Jupyter Notebook 2025.9.1
 Libraries used:
 
 ultralytics 8.4.24
+pandas 2.3.3
+matplotlib 3.10.7
