@@ -1,0 +1,5 @@
+Dataset link: https://drive.google.com/file/d/18pJRKjePcx0E7VuJKLwD9AUGSNPAvhPe/view?usp=sharing
+
+Dataset size: 2.08 GB
+
+Images: 45252
