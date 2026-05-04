@@ -148,10 +148,10 @@ External evaluation:
 
 ## Performance Metrics
 
-| Model   | Parameters | Epochs | mAP50 | Precision | Recall | mAP50-95 |
-| ------- | ---------- | ------ | ----- | --------- | ------ | -------- |
-| YOLOv8n | 3.2M       | 45     | 80.0% | 81.3%     | 71.8%  | —        |
-| YOLOv8s | 11.2M      | 45     | 81.8% | 81.6%     | 74.8%  | —        |
+| Model   | Parameters | Epochs | mAP50 | Precision | Recall |
+| ------- | ---------- | ------ | ----- | --------- | ------ |
+| YOLOv8n | 3.2M       | 45     | 80.0% | 81.3%     | 71.8%  |
+| YOLOv8s | 11.2M      | 45     | 81.8% | 81.6%     | 74.8%  |
 
 ---
 
